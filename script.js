@@ -18,7 +18,7 @@ class Workout {
 
     this.description = `${this.type[0].toUpperCase()}${this.type.slice(1)} on ${
       months[this.date.getMonth()]
-    } ${this.date.getDate()} ${this.distance}`;
+    } ${this.date.getDate()}`;
   }
 
   click() {

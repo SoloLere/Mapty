@@ -1,6 +1,6 @@
 # Jonas Schmedtmann's JS course project - Mapty
 
-This project is aimed at improving my JavaScript coding skills. Please note that this project is designed as a desktop application. For the best experience, I recommend accessing it on a desktop or laptop device. 
+This project is aimed at improving my JavaScript coding skills. Please note that this project is designed as a desktop application. For the best experience, I recommend accessing it on a desktop or laptop device.
 
 ## Table of contents
 
@@ -17,21 +17,18 @@ This project is aimed at improving my JavaScript coding skills. Please note that
     - [App Architecture](#app-architecture)
   - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
-- Choose any point on the map and choose between running or cycling. In order to submit the workout, the user needs to fill out several details like distance, duration, cadence or elevation. All the workout will be saved after choosing any new workout option. 
+- Choose any point on the map and choose between running or cycling. In order to submit the workout, the user needs to fill out several details like distance, duration, cadence or elevation. All the workout will be saved after choosing any new workout option.
 - Find the workout on the map by clicking on the list. The list contains workout details like pace, cadence, duration, speed as well as the date of the workout. If the user reloads the page, all the data will be saved.
 
 ### Screenshot
 
 ![Desktop site preview](desktop-preview.png)
-
-
 
 ### Links
 
@@ -48,6 +45,7 @@ Users should be able to:
 - Leaflet API
 
 ### Extra features(challenges) added:
+
 - Ability to delete all Workouts
 - Ability to delete a workout
 - Ability to edit a workout
@@ -59,13 +57,12 @@ Users should be able to:
 - JSON.parse - converts the string to obj, but I'll loose my prototype chain
 - location.reload - reloads a page
 
-
 ### App Architecture
-![App Architecture](Mapty-architecture-updated.png)
 
+![App Architecture](Mapty-architecture-updated.png)
 
 ## Author
 
 - Mail - [Oseni Solomon](jnrolalere@gmail.com)
 - Frontend Mentor - [Oseni Solomon](https://www.frontendmentor.io/profile/@SoloLere)
-- LinkedIn - [Oseni Solomon]()
+- LinkedIn - [Oseni Solomon](https://www.linkedin.com/in/solomon-oseni-b00aa1154)
